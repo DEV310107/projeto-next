@@ -1,3 +1,4 @@
+import { prisma } from "@/lib/prisma-client";
 import { AppSidebar } from "@/components/app-sidebar"
 import { ChartAreaInteractive } from "@/components/chart-area-interactive"
 import { DataTable } from "@/components/data-table"
